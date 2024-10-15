@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BoxnMove.Business/bin
+/BoxnMove.Business/obj
+/.vs
+/BoxnMove.Database/bin
+/BoxnMove.Database/obj
+/BoxnMove.Models/bin
+/BoxnMove.Models/obj
+/BoxnMove.Shared/bin
+/BoxnMove.Shared/obj
+/BoxnMoveAPI/bin
+/BoxnMoveAPI/obj
